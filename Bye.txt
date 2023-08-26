@@ -1,2 +1,12 @@
 Github to local commit is done here
+<<<<<<< HEAD
 conflict check
+=======
+
+
+
+
+
+
+conflict check123
+>>>>>>> 88bdd8c0588874999101d1b9faf4fd8410fb7404
